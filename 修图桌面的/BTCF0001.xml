@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vas_g00 SYSTEM "vas_g00.dtd">
+<vas_g00 format="2">
+  <regions>
+    <region x1="0" y1="0" x2="115" y2="26"/>
+    <region x1="117" y1="0" x2="217" y2="26"/>
+    <region x1="217" y1="0" x2="316" y2="26"/>
+    <region x1="317" y1="0" x2="432" y2="26"/>
+    <region x1="433" y1="0" x2="533" y2="26"/>
+    <region x1="534" y1="0" x2="633" y2="26"/>
+    <region x1="0" y1="27" x2="115" y2="53"/>
+    <region x1="117" y1="27" x2="217" y2="53"/>
+    <region x1="217" y1="27" x2="316" y2="53"/>
+    <region x1="317" y1="27" x2="432" y2="53"/>
+    <region x1="433" y1="27" x2="533" y2="53"/>
+    <region x1="534" y1="27" x2="633" y2="53"/>
+  </regions>
+</vas_g00>
